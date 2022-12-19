@@ -74,4 +74,5 @@
             android:text="@string/signin_google"
             android:textColor="@color/white" />
     </LinearLayout>
+
 </RelativeLayout>
